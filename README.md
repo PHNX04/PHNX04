@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Phnx</h1>
-<h3 align="center">I am a Cybersecurity student who is interested in cryptography and digital forensics</h3>
+<h3 align="center">I am a bioinformatics student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phnx04&label=Profile%20views&color=0e75b6&style=flat" alt="phnx04" /> </p>
 
-- 🌱 I’m currently learning **cryptography**
+- 🌱 I’m currently learning **bioinformatics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
